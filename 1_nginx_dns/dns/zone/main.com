@@ -7,5 +7,5 @@ $TTL 86400
                     86400 )     ; Minimum TTL
 
 @       IN      NS      picolo.main.com.
-picolo  IN      A       192.168.1.50
-ns      IN      A       192.168.1.50
+picolo  IN      A       127.0.0.1
+ns      IN      A       127.0.0.1
